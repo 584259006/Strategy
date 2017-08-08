@@ -37,7 +37,8 @@ public class Test {
 		d2.quack();
 		d2.fly();
 		
-
+		MallardDuck d4 = new MallardDuck();
+		d4.quack();
 	}
 
 }
